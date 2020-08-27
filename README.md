@@ -2,7 +2,8 @@
 Lowe's India Hackathon Project
 
 #                                
-It is an operation that consists in ordering more stocks in order to fulfill the customer demand.We have to provide a smart solution to it.
+In supply chain industry, the stock replenishment is an operation that consists in ordering more stocks in order to fulfill the customer demand.
+We have to provide a smart solution to it.
 
 ## Solution:
 
